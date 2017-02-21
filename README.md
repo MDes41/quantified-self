@@ -22,7 +22,7 @@ pps: If you're on a mac and don't already have homebrew, you should [check it ou
 1. Clone the repository and rename the repository to `quantified-self` in one command
 
   ```shell
-  git clone git@github.com:lsaville/quantified-self.git
+  git clone git@github.com:MDes41/quantified-self.git
   ```
 
 2. Change into the `quantified-self` directory
